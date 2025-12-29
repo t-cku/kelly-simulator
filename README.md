@@ -1,6 +1,7 @@
 Kelly Criterion Risk Simulator
 
 Project Overview
+
 A quantitative simulation engine built using Python to analyse the performance of the Kelly Criterion strategy. The project compares different betting sizing strategies (Full Kelly, Half Kelly, and Over-Bet) to demonstrate the relationship between geometric growth and risk of ruin.
 
 Key Features
